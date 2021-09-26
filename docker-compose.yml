@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+    vision: 
+        build: ./vision
+        image: vision
+        ports:
+            - 8501:8501
+    meal-planner:
+        build: ./meal-planner
+        image: meal-planner
+        ports: 
+            - 1234:80

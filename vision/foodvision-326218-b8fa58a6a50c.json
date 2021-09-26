@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "foodvision-326218",
+  "private_key_id": "b8fa58a6a50c36c122c132ae7fb6854d52560a85",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCOpVH1y4VU7B0m\nd8eIQxoU9WXpU28FcEgFivz1JHlHB+3kos+DfCVQiELGDAgGNyZyXoqeCp/Emj9B\nrdm9T6q1JJWIQKw1oSfsTfM76bx+mM9bFKSvUHG6T+We3lWZgJo+Y1+W+8firygm\no9OSaPeB3NeqzT3AZifNDgZnmi5S+foeM5VSYPrYM+wh3gTJLujkhpE334k+SWJT\nJo9HtC+T0NOpxbY7Toj68jgH0NNm/m9HQLTC5X1HK4vUBBdqnkIKJk77FTTHvCv/\nRWRZj/O0Go7cOVE1eVBoCSZJJ10t/pXi8KHx5i9aqapkvLqpeDFNcT9xC8Gu/zH1\nLxl7QqOtAgMBAAECggEAEZa++XDj+um2WnTwjJPBlo3/x/p6uQ/0QYK22D9sGN8Y\nbVXKAqt/KmPy39rB7opEWlvf+cbTlnlyjVWzgI1fPkDJk2huE5rQgmnGMUAL9ww+\nnTt5ZwijTVbmuGUv5uKdok28jrBzIDd62vDeeLIqur+RdEUkdSHjjHxLO+EeDysG\nk8u49OJksXf68Yhlt8FdxZxXjEBSu9NZpwnGmbvyy8LuPaQtNEpn8H0jMPpIvo2h\nXiAMGXw8DEZwcrtZm3mamwDPCp6OOZs1XgZzU3Wb68rsYERqwPUFsPJxgZbFmV99\ng6/6yR6zMxrteqnKVuycW4OvEEgIp/wiH/eNARyC3QKBgQDBvD1kGNih44ko3RS0\nvibVgG4CS3j1Vf+qkpFEb3W+tD+1bf9p2oZb0xHtv8dqs5DR2UaMMfK2KtLX2c+8\nzgwzVcurZV4KNM0WEHqb11ACd3hZaJZX6/nkPa38akGPErOXCYAo37l/dY/nckiL\n2sIRklnLywGdQFt68Yjgh1rMgwKBgQC8faPNandJJvPNU5HdtTW1dndeh8qfDcMI\nvmpYxHVrVrCDHSCnB32QgVX9G2rU2+cDKM7ov1Dxez35eejyVD14pwEEWfMTohAY\npljy1co962m4J3x7mopU0Z5HC9d66Y2/S5BkAErFskh4SsRc6OlnWoguDOYoGzwW\nrrIigLw4DwKBgGIUBBhao8FBSbzQP51I7qwDeq3au3+oa+hUjwpQSxGieuZEq5tR\nL9fowRjVkAUqptQ15QswdilXAKqZ8BsrTO3oL1Wz2andFT5oVUnz9ONqzBinZAVa\nx4WO3Df/KvVdiGGcQ69to6EtSQ7owmVa+AihSKhtO4H6hNV21c6ld4g1AoGBAK5l\nIJUCGHPaUmB7Hc6fxp2qii8wPEyFExqX8xVGT82MW6wz2u4vhAGbaM/R+joPa+IE\nc8vslxuWB3U3UkxDnMxw2AQKpVhY7cOgxVOIcqJvmVUFU6uZBLwNZgAd+LSEOt3v\nMB0WGBhqJ5sEskG0TZ+Op8jTrm8VI7do0vARZBQJAoGAEULOB+PtlUgvhcpNTDzF\nYCAaz90gCM8cNVrmyggzFf5bjVpN7cBfVWUmsRcFjYdx/F5orGl7HQB1iqgrbxHf\nUqPaV7xWZmINhQZzx5pUyqQLXXYciL+WLthL2RfTY6Dd2fLyfJWfHPidKEwI9A1C\neL88Md/k7ISLjSvwa0JwKD4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "foodvision@foodvision-326218.iam.gserviceaccount.com",
+  "client_id": "106749016504616949234",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/foodvision%40foodvision-326218.iam.gserviceaccount.com"
+}

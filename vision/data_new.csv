@@ -1,0 +1,36 @@
+,Food,Category,Quantity,Calories,Carbs,Protein,Fats
+0,idli,breakfast,6,35,2.625,1.75,1.5555555555555556
+1,plain dosa,breakfast,3,165,12.375,4.125,5.5
+2,poha,breakfast,3,180,9.0,9.0,8.0
+3,upma,breakfast,3,190,9.5,9.5,6.333333333333333
+4,vada pav,breakfast,3,195,14.625,4.875,6.5
+5,pav bhaji,breakfast,3,400,20.0,10.0,8.88888888888889
+6,poori,breakfast,8,100,5.0,5.0,4.444444444444445
+7,sandwich,breakfast,3,265,26.5,6.625,11.777777777777779
+8,aloo paratha,breakfast,4,180,13.5,9.0,8.0
+9,akki roti,breakfast,4,205,20.5,5.125,9.11111111111111
+10,oats,breakfast,2,300,22.5,7.5,6.666666666666667
+11,egg toast,breakfast,4,200,10.0,5.0,6.666666666666667
+12,pancakes,breakfast,7,90,4.5,2.25,4.0
+13,fruit bowl,breakfast,2,160,8.0,4.0,7.111111111111111
+14, curd rice,lunch,2,240,24.0,12.0,5.333333333333333
+15,rice & chicken curry 1cup(235),lunch,2,240,24.0,6.0,8.0
+16,rice &mutton curry 1cup(235g),lunch,2,225,22.5,11.25,7.5
+17,vegetable curry 1cup,lunch,2,330,24.75,16.5,7.333333333333333
+18,roti & paneer curry 1cup,lunch,2,365,27.375,9.125,16.22222222222222
+19,chicken tandoori breast,lunch,2,260,19.5,13.0,5.777777777777778
+20,rice & daal makhani 1cup,lunch,2,260,13.0,13.0,11.555555555555555
+21,rice & rajma masala 1cup,lunch,2,240,12.0,6.0,5.333333333333333
+22,roti & fish curry 1cup,lunch,2,230,23.0,11.5,5.111111111111111
+23,Jeera ice & egg curry with 2 eggs,lunch,2,280,21.0,7.0,6.222222222222222
+24, bature & channa masala 1cup,lunch,2,250,12.5,6.25,5.555555555555555
+25,roti & mushrrom curry 1cup,lunch,2,160,12.0,8.0,3.5555555555555554
+26,chapati & Thai chicken curry,dinner,6,120,12.0,3.0,4.0
+27,veg pulao,dinner,2,250,25.0,6.25,11.11111111111111
+28,roti & bhindi masala,dinner,2,250,12.5,6.25,5.555555555555555
+29,roti & veg kurma,dinner,2,300,15.0,15.0,10.0
+30,curd rice,dinner,2,300,30.0,7.5,6.666666666666667
+31,chicken sandwich,dinner,2,260,13.0,6.5,8.666666666666666
+32,veg sandwich,dinner,2,265,19.875,6.625,8.833333333333334
+33,jeera rice,dinner,2,250,12.5,12.5,11.11111111111111
+34,oatmeal,dinner,2,280,21.0,7.0,9.333333333333334

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "silken-champion-326214",
+  "private_key_id": "2c1e03407b5780a40fc76f96607f6f0c05f9adf5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDAKs4cFVlMq8cu\n9JaptFspmW1gv96TPknMYnoH5lHc8HmNEDRtwvN5jHmLZ7JT/5kL9sXiO+ioh3bH\ns6i0TKujh/CAeHw9wy4a0gCYvmdUQVZYsrT0lPUB1lhATeFtKEZUwoyZHJsl7V93\n5COBfc0d23lRevvnbl6NqSDvuMwTSeXeCR9YTCa4QwIbdCBAnBYkFDRp6ahu8p/Y\nYFROJCd+yH5GftABu/H8xLk3jCQdQBsq1RE8HY+bVXpia5ASJ2d3gUzcWcsCn3o4\n12t99hbgNI1OMHyHIR570OV/Paime/zgCt/sukYm/oJh5TtQ9Aj5aMNd4pErj2XQ\n/SbtCav7AgMBAAECggEALl5FxG38Ua1DTxeygPllY9jDFSzG4oWNnhUG+AABscuO\nsNR/qhp30FTugQ5A79bFUac2YVvuTDf/l7lIlFTJt5hWFlG8PNTrO4p/nVuYKDLp\nyFY6pqeIpOxY+A8yvTmSGuKktU87OoAX4KB6VsUJqNIr6FbCELpHc2wjZ+SRzXdE\niLBGUas9K2yT6ezSYlranFF6XfHUVPnRR5nDBNVsVulQGnGJfULkPTasdLOmQ4yo\now4LE4QBBav6KgJsfoar+wfxb3a+Iym1JeZS2J7u4co7z7Z78LVim9DVxyK7QOis\n/2DIKrXmU7N4G32n70fdrknNasVMU/73huH9U03lPQKBgQDtXj7EAJPcPyeqgJ7x\nggUyZOYgqDX680i/195ZuvzDp9ZBZbWjW83vIJL3TKsWghAbitBaKlSkytP5c+aA\neDRiLaslpuN7Pdgg/MywS0a/enXcwArkrdoWMblRmN89/TyedNefoWGviHHdeQlX\n2fEhdoY3VK2LtrypF7ZPNHzV3QKBgQDPQEb2CvO/HCnZk2PlrIbtmllpTIqDb6IJ\nGSuoolkP7Z21UV4tIQW+aaDbmEQ3s6I5FVnn8TQqsTaPis/oyi5LpCeO/wAf1eBh\nHd/utAcyik4gxKIbJvQkH2UzdtpRkw/jjcIwRINqOnEYF8T/uSlei1Xx4L1vDOta\nDEajDebHtwKBgGRHh464i77lc3WFxyBShK2IkOxFBCETvK1HnmkcJQLnmg2g0X7F\nHxgiE9SkMDdfFTz9hQ5CieXgxnLBcyTdI4xCrOZIPhxnwTIWescT1jy4mKh8/V0k\n0VjFAvyk79M5c+2hgSKwRBurMieVpcvWiBdSAlvHy1WWCtgI631EuGSFAoGBAJZi\nutsgeVxMkGWL2Oo4tbPF02lgHAZhw788X3y/SUcQkeaXA3JVyvgvZ4TQyXdtxqIL\nRzDRypvL+Z5RCKqPwuYqWHYfvTRcmrN93Rc11R8sUqLebA6txmxLx8B/Vs3om5fw\nLl+d54n2nEfyP4WcE1PCYXvhKzRguIqf68W3eaWjAoGBAI1PDalwymsR5VimKJW+\nVISQQ/o2GubSrZWNWGimnT6MOxX9bH/p7vR/xYpush1d7f4KxYUT8wwtj7FJy44y\n75pwo5aqUyor3A+x6nDbcMpGg99ksjt6D2beG7bfjSpbIalKEP+hxzYmuUfx2j4m\nUOhg06ytiv+fKlGAFBhilzYx\n-----END PRIVATE KEY-----\n",
+  "client_email": "foodvision@silken-champion-326214.iam.gserviceaccount.com",
+  "client_id": "105862788286330268924",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/foodvision%40silken-champion-326214.iam.gserviceaccount.com"
+}
